@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cookie-component {
+  width: 300px;
+  margin: 20px auto;
+}
+
+.cookie-img {
+  margin: 0;
+  width: 100%;
+}
+
+.baker-component {
+  border-radius: 20px;
+  border: 1px #ddd solid;
+  width: 300px;
+  margin: 10px auto;
+  padding-bottom: 20px;
+}
+
+.button-area {
+  display: flex;
+  justify-content: center;
+}
+
+.button-area button {
+  margin: 5px;
+}
